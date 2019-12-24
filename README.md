@@ -1,2 +1,0 @@
-# JackSparrow
-Fellowship Programs
